@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there! I'm Alex 👋
 
-<!--
-**qprquo/qprquo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on kino-reaction's [backend](https://github.com/qprquo/backend) and [frontend](https://github.com/qprquo/kino)
+- 🌱 I’m currently learning **Docker,Kubernetes,RabbitMQ**
+- 📫 How to reach me: **alexsf2017@ya.ru**
+### 👨‍💻 My stack: 
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express.js"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node.js"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres" >
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My stats
+[![qprquo's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=qprquo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
