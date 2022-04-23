@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on kino-reaction's [backend](https://github.com/qprquo/backend) and [frontend](https://github.com/qprquo/kino)
 - 🌱 I’m currently learning **Docker, Kubernetes, RabbitMQ**
-- 🧑‍💼 I'm currently open for job opportunities!
+- 🧑‍💼 I'm currently open for any job opportunities!
 - 📫 How to reach me: **alexsf2017@ya.ru**
 
 ### 💻 My stack: 
